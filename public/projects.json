@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "EduFunds",
+    "image": "https://i.ibb.co.com/nqNW47xc/Screenshot-2025-02-07-163135.png",
+    "mainTechStack": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Daisy UI",
+      "Stripe",
+      "Axios",
+      "TanStack Query",
+      "SweetAlert2",
+      "JWT",
+      "Node.js",
+      "Express JS",
+      "MongoDB"
+    ],
+    "briefDescription": "EduFunds is a responsive and feature-rich dashboard for managing scholarships.",
+    "liveLink": "https://edufunds-m.netlify.app",
+    "githubLink": "https://github.com/TondraMou/EduFunds-client",
+    "detailedDescription": "EduFunds is designed to facilitate users, admin and moderators in managing scholarships efficiently. Admin and moderators can add, manage scholarships. The dashboard provides intuitive navigation and professional features for seamless management.",
+    "challenges": [
+      "Implementing a responsive sidebar with a toggle functionality for mobile and tablet views",
+      "Efficiently managing data for users, admin and moderators while ensuring smooth navigation",
+      "Designing a user-friendly UI that suits both admin, moderator and users"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ShelfVista",
+    "image": "https://i.ibb.co.com/mC67rgN/Screenshot-2025-01-05-142314.png",
+    "mainTechStack": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Daisy UI",
+      "JWT",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "briefDescription": "A platform for borrowing books with features availability status",
+    "liveLink": "https://shelf-bookm.netlify.app",
+    "githubLink": "https://github.com/TondraMou/ShelfVista-client",
+    "detailedDescription": "This project allows users to browse books, check their availability, return them for specific dates.",
+    "challenges": [
+      "Implementing available status updates across users"
+    ]
+    
+  },
+  {
+    "id": 3,
+    "name": "GoVizes",
+    "image": "https://i.ibb.co.com/HFsDDQ0/Screenshot-2025-01-05-142030.png",
+    "mainTechStack": [
+      "React",
+      "React Router",
+      "Tailwind CSS",
+      "Daisy UI",
+      "Firebase",
+      "SweetAlert2",
+      "Node.js",
+      "Express JS",
+      "MongoDB"
+    ],
+    "briefDescription": "The platform where logged in users can add visa for their favorite country",
+    "liveLink": "https://govizes-m.netlify.app",
+    "githubLink": "https://github.com/TondraMou/GoVizes-client",
+    "detailedDescription": "This project enables users to add and apply visas.",
+    "challenges": [
+      "Showing specific visa application for specific users"
+    ]
+    
+  }
+]

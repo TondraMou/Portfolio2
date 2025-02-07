@@ -84,7 +84,7 @@ const ContactMe = () => {
         </form>
         </div>
 
-        <div className="lg:w-1/2 bg-fuchsia-50 md:p-12 p-6 space-y-5 border border-gray-300 shadow-md hover:shadow-2xl hover:scale-105 transition-transform duration-300 rounded-lg">
+        <div className="lg:w-1/2 bg-slate-50 md:p-12 p-6 space-y-5 border border-gray-300 shadow-md hover:shadow-2xl hover:scale-105 transition-transform duration-300 rounded-lg">
 
         <h2 className="text-2xl font-bold">Contact Information</h2>
 
